@@ -1,4 +1,16 @@
-### Hi there 👋
+### 성장중인 백앤드 개발자 유호석입니다. 👋
+---
+✔️ **Multi Thread** 환경에 익숙합니다. <br>
+✔️ **꾸준히 공부**하고 **지식을 공유**하고 **함께 성장**하는 삶을 지향합니다. <br>
+✔️ 저에 대해 궁금하시다면 노션 이력서를 방문해주세요 😊 <br>
+
+## Technical Skills
+Language : **C** **C++** **Python** <br>
+Issue Traker : **Jira** **Confluence** <br>
+Version / Revision Control Tools : **SVN** **Git** **Github** **Markdown** <br>
+
+## Links
+<ghtjr026@gmail.com>
 
 <!--
 **ghtjr026/ghtjr026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
