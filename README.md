@@ -5,9 +5,9 @@
 ✔️ 저에 대해 궁금하시다면 [포트폴리오](https://ghtjr026.github.io/)를 방문해주세요 😊 <br>
 
 ## Technical Skills
-Language : **C** **C++** **Python** <br>
-Issue Traker : **Jira** **Confluence** <br>
-Version / Revision Control Tools : **SVN** **Git** **Github** **Markdown** <br>
+ - Language : **C** **C++** **Python** <br>
+ - Issue Traker : **Jira** **Confluence** <br>
+ - Version / Revision Control Tools : **SVN** **Git** **Github** **Markdown** <br>
 
 ## Certificate
  - WORD PROCESSOR LV2
