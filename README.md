@@ -9,6 +9,12 @@ Language : **C** **C++** **Python** <br>
 Issue Traker : **Jira** **Confluence** <br>
 Version / Revision Control Tools : **SVN** **Git** **Github** **Markdown** <br>
 
+## Certificate
+ - WORD PROCESSOR LV2
+ - COMPUTER LITERACY LV3
+ - INFORMATION PROCESSING ENGINEER
+ - TOEIC-Speaking IM1 - LV5
+
 ## Links
 <ghtjr026@gmail.com>
 
